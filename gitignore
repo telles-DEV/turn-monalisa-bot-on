@@ -1,0 +1,19 @@
+# Ignorar variáveis de ambiente e chaves
+.env
+
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos temporários do sistema
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Ignorar ambientes virtuais
+venv/
+.env/
+.venv/
